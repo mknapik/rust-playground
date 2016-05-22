@@ -1,0 +1,6 @@
+[package]
+name = "playground"
+version = "0.1.0"
+authors = ["Michał Knapik <michal.knapik@u2i.com>"]
+
+[dependencies]
